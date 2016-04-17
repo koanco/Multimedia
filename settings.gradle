@@ -1,0 +1,1 @@
+include ':app', ':recorderaudio', ':appfotos', ':appvideo', ':reproduciraudio'
